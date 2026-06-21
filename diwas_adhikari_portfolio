@@ -977,3 +977,9 @@ async function fetchData() {<br>
     </script>
 </body>
 </html>
+git init
+git add .
+git commit -m "Initial commit: Full Stack ePortfolio"
+git branch -M main
+git remote add origin https://github.com/bwit26dsa/assignment.git
+git push -u origin main
