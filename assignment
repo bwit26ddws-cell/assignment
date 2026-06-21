@@ -5,3 +5,9 @@ assignment/
 ├── README.md                           # GitHub repository documentation
 ├── GITHUB_SETUP_INSTRUCTIONS.md        # Step-by-step GitHub setup guide
 └── .gitignore                          # Git ignore file
+git init
+git add 
+git commit -m "Initial commit: Full Stack ePortfolio"
+git branch -M main
+git remote add origin https://github.com/bwit26dsa/assignment.git
+git push -u origin main
