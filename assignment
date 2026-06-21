@@ -1,0 +1,7 @@
+assignment/
+├── index.html                          # Main HTML file
+├── style.css                           # Stylesheet (separated)
+├── script.js                           # JavaScript (separated)
+├── README.md                           # GitHub repository documentation
+├── GITHUB_SETUP_INSTRUCTIONS.md        # Step-by-step GitHub setup guide
+└── .gitignore                          # Git ignore file
